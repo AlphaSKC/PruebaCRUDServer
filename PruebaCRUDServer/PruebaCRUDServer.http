@@ -1,0 +1,6 @@
+@PruebaCRUDServer_HostAddress = http://localhost:5053
+
+GET {{PruebaCRUDServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
